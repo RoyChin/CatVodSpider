@@ -19,8 +19,8 @@
       "api": "https://agit.ai/alanchaotang/if/raw/branch/main/js/live2vod.js",
       "ext": "https://agit.ai/alanchaotang/if/raw/branch/main/js/feimaolive.json"
     },
-    {"key": "csp_XPath獨播","name": "csp_XPath獨播","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"changeable": 1,"ext": "./duboku.json"},
-    {"key": "js獨播","name": "js獨播","type": 3,"api": "https://boyss180.github.io/fm/lib/drpy2.min.js","searchable": 1,"changeable":1 ,"ext": "https://boyss180.github.io/fm/ext/独播库_final.js"},
+    //{"key": "csp_XPath獨播","name": "csp_XPath獨播","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"changeable": 1,"ext": "./duboku.json"},
+    //{"key": "js獨播","name": "js獨播","type": 3,"api": "https://boyss180.github.io/fm/lib/drpy2.min.js","searchable": 1,"changeable":1 ,"ext": "https://boyss180.github.io/fm/ext/独播库_final.js"},
     {"key": "dr_华乐影院","name": "華樂","type": 3,"api": "https://boyss180.github.io/fm/lib/drpy2.min.js","searchable": 1,"changeable": 1,"ext": "https://boyss180.github.io/fm/ext/华乐影院[飞].js"},
     {"key": "dr_爱壹帆_new","name": "愛壹帆(測試)","type": 3,"api": "https://boyss180.github.io/fm/lib/drpy2.min.js","searchable": 1,"changeable": 1,"ext": "https://boyss180.github.io/fm/ext/爱壹帆[飞].js"},
     {"key": "dr_飞兔影视","name": "飞兔","type": 3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable": 1,"changeable": 1,"ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/飞兔影视.js"},
