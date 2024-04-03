@@ -1,8 +1,7 @@
 {
   "author": "takagen99",
   "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6312.40 Mobile Safari/537.36",
-  //"homeUrl": "https://www.duboku.tv/",
-  "homeUrl": "tv.gboku.com/",	
+  "homeUrl": "https://www.duboku.tv/",
   "dcVipFlag": "true",
   "dcPlayUrl": "true",
   "cateNode": "//ul[contains(@class,'nav-menu')]/li/a[contains(@href, 'vodtype')]",
