@@ -22,6 +22,7 @@
     //{"key": "csp_XPath獨播","name": "csp_XPath獨播","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"changeable": 1,"ext": "./duboku.json"},
     //{"key": "js獨播","name": "js獨播","type": 3,"api": "https://boyss180.github.io/fm/lib/drpy2.min.js","searchable": 1,"changeable":1 ,"ext": "https://boyss180.github.io/fm/ext/独播库_final.js"},
     {"key": "dr_小宝-edit","name": "小寶","type": 3,"api": "https://boyss180.github.io/fm/lib/drpy2.min.js","searchable": 1,"changeable": 1,"ext": "https://boyss180.github.io/fm/ext/小宝-edit.js"},
+    {"key": "苹果","name": "蘋果(Test)","type": 3,"api": "csp_LiteApple","searchable": 1,"changeable": 1},
     //{"key": "dr_华乐影院","name": "華樂","type": 3,"api": "https://boyss180.github.io/fm/lib/drpy2.min.js","searchable": 1,"changeable": 1,"ext": "https://boyss180.github.io/fm/ext/华乐影院[飞].js"},
     {"key": "dr_爱壹帆_new","name": "愛壹帆(測試)","type": 3,"api": "https://boyss180.github.io/fm/lib/drpy2.min.js","searchable": 1,"changeable": 1,"ext": "https://boyss180.github.io/fm/ext/爱壹帆[飞].js"},
     //{"key": "dr_飞兔影视","name": "飞兔","type": 3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable": 1,"changeable": 1,"ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/飞兔影视.js"},
@@ -557,5 +558,6 @@
       ]
     }
   ],
+  "flags":["youku","qq","iqiyi","imgo","xueren","m1905","qiyi","letv","sohu","tudou","pptv","dbm3u8","mgtv","wasu","bilibili","le","duoduozy","renrenmi","xigua","优酷","西瓜","乐视","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy","哔哩哔哩","哔哩"],
   "ads": ["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]
 }
