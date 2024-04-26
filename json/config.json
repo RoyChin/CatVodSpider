@@ -27,7 +27,6 @@
     {"key": "dr_飞兔影视","name": "飞兔","type": 3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable": 1,"changeable": 1,"ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/飞兔影视.js"},
     {"key": "欧乐","name": "欧乐","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"changeable": 1,"ext": "./olevod.json"},
     //{"key": "T4-安博","name": "安博(測試)","type": 4,"api": "https://tang.serv00.net/power/ub1818?token=ef611921","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0},
-    {"key": "苹果","name": "蘋果(Test)","type": 3,"api": "csp_LiteApple","searchable": 1,"changeable": 1}, 
     {
       "key": "星星",
       "name": "星星",
