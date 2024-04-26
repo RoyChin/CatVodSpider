@@ -55,7 +55,7 @@
   "dtUrlName": "/text()",
   "dtUrlNameR": "",
   //"playUrl": "https://tv.gboku.com/vodplay/{playUrl}.html",
-  "playUrl": "https://dubocool.com/vodplay/{playUrl}.html",
+  "playUrl": "https://w.duboku.io/vodplay/{playUrl}.html",
   "playUa": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6312.40 Mobile Safari/537.36",
   //"playReferer": "https://tv.gboku.com/",
   "playReferer": "https://w.duboku.io/",
