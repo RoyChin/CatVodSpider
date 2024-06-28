@@ -22,7 +22,6 @@
     //{"key": "csp_XPath獨播","name": "csp_XPath獨播","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"changeable": 1,"ext": "./duboku.json"},
     //{"key": "js獨播","name": "js獨播","type": 3,"api": "https://boyss180.github.io/fm/lib/drpy2.min.js","searchable": 1,"changeable":1 ,"ext": "https://boyss180.github.io/fm/ext/独播库_final.js"},
     {"key": "dr_小宝-edit","name": "小寶","type": 3,"api": "https://boyss180.github.io/fm/lib/drpy2.min.js","searchable": 1,"changeable": 1,"ext": "https://boyss180.github.io/fm/ext/小宝-edit.js"},
-    {"key": "文采","name": "文才","type": 3,"api": "csp_Jpys","playerType": 2,"searchable": 1,"changeable": 1"},
     //{"key":"苹果","name":"蘋果","type":3,"api":"csp_LiteApple","searchable":1,"changeable":1}, 
     //{"key": "drpy_js_中国人线上看","name": "中国人线上看","type": 3,"api": "https://raw.kkgithub.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext": "https://raw.kkgithub.com/gaotianliuyun/gao/master/js/中国人线上看.js"},
     //{"key": "dr_华乐影院","name": "華樂","type": 3,"api": "https://boyss180.github.io/fm/lib/drpy2.min.js","searchable": 1,"changeable": 1,"ext": "https://boyss180.github.io/fm/ext/华乐影院[飞].js"},
