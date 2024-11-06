@@ -29,7 +29,7 @@
     {"key":"drpy_荐片2","name":"荐片","type":3,"api":"../lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"../ext/荐片_ed.js"},  
     //{"key":"苹果","name":"蘋果","type":3,"api":"csp_LiteApple","searchable":1,"changeable":1}, 
     //{"key": "drpy_js_中国人线上看","name": "中国人线上看","type": 3,"api": "../lib/drpy2.min.js","ext": "https://raw.kkgithub.com/gaotianliuyun/gao/master/js/中国人线上看.js"},
-    {"key": "dr_爱壹帆_new","name": "愛壹帆(測試)","type": 3,"api": "../lib/drpy2.min.js","searchable": 1,"changeable": 1,"ext": "../ext/爱壹帆[飞].js"},
+    //{"key": "dr_爱壹帆_new","name": "愛壹帆(測試)","type": 3,"api": "../lib/drpy2.min.js","searchable": 1,"changeable": 1,"ext": "../ext/爱壹帆[飞].js"},
     //{"key": "dr_飞兔影视","name": "飞兔","type": 3,"api": "../libs/drpy2.min.js","searchable": 1,"changeable": 1,"ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/飞兔影视.js"},
     {"key":"dr_欧乐","name":"欧乐","type":3,"api":"../lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"../ext/欧乐original.js"},
     {
