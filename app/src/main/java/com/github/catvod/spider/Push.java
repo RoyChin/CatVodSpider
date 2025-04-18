@@ -1,6 +1,5 @@
 package com.github.catvod.spider;
 
-import android.content.Context;
 import android.net.Uri;
 import android.text.TextUtils;
 
@@ -19,31 +18,19 @@ import java.util.List;
 
 public class Push extends Spider {
 
-    private final Ali ali;
-
-    public Push() {
-        ali = new Ali();
-    }
-
-    @Override
-    public void init(Context context, String extend) {
-        ali.init(context, extend);
-    }
-
     @Override
     public String detailContent(List<String> ids) throws Exception {
-        if (Ali.pattern.matcher(ids.get(0)).find()) return ali.detailContent(ids);
         return Result.string(vod(ids.get(0)));
     }
 
     @Override
     public String playerContent(String flag, String id, List<String> vipFlags) {
-        if (id.startsWith("http") && id.contains("***")) id = id.replace("***", "#");
+        if (id.contains("://") && id.contains("***")) id = id.replace("***", "#");
         if (flag.equals("直連")) return Result.get().url(id).subs(getSubs(id)).string();
         if (flag.equals("解析")) return Result.get().parse().jx().url(id).string();
         if (flag.equals("嗅探")) return Result.get().parse().url(id).string();
         if (flag.equals("迅雷")) return Result.get().url(id).string();
-        return ali.playerContent(flag, id, vipFlags);
+        return "";
     }
 
     private Vod vod(String url) {
@@ -52,7 +39,7 @@ public class Push extends Spider {
         vod.setVodPic(Image.PUSH);
         vod.setTypeName("FongMi");
         vod.setVodName(url.startsWith("file://") ? new File(url).getName() : url);
-        if (url.startsWith("http") && url.contains("#")) url = url.replace("#", "***");
+        if (url.contains("://") && url.contains("#")) url = url.replace("#", "***");
         if (Util.isThunder(url)) {
             vod.setVodPlayUrl(url);
             vod.setVodPlayFrom("迅雷");

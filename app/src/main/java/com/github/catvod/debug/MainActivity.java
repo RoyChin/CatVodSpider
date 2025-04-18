@@ -82,7 +82,7 @@ public class MainActivity extends Activity {
 
     public void detailContent() {
         try {
-            Logger.t("detailContent").d(spider.detailContent(Arrays.asList("434686")));
+            Logger.t("detailContent").d(spider.detailContent(Arrays.asList("78702")));
         } catch (Throwable e) {
             e.printStackTrace();
         }
